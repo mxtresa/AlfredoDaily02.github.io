@@ -1,6 +1,3 @@
-# AlfredoDaily02.github.io
-Código de web para ejercicios, aqui el puede practicar preguntas del día a día 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
